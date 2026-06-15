@@ -47,31 +47,40 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
   <img src="screenshots/iphone/iphone_landscape.png?raw=true" width="60%" alt="横屏截图">
 </p>
 
-| | |
-|---|---|
-| ![首页](screenshots/iphone/iphone_home.png?raw=true) | ![会话历史](screenshots/iphone/iphone_session.png?raw=true) |
-| ![设置](screenshots/iphone/iphone_settings.png?raw=true) | ![浮窗](screenshots/iphone/iphone_pip.png?raw=true) |
-| ![文件翻译](screenshots/iphone/iphone_file.png?raw=true) | ![导出](screenshots/iphone/iphone_export.png?raw=true) |
+<p align="center">
+  <img src="screenshots/iphone/iphone_home.png?raw=true" width="30%" alt="首页">&ensp;
+  <img src="screenshots/iphone/iphone_session.png?raw=true" width="30%" alt="会话">&ensp;
+  <img src="screenshots/iphone/iphone_settings.png?raw=true" width="30%" alt="设置">
+  <br><br>
+  <img src="screenshots/iphone/iphone_pip.png?raw=true" width="30%" alt="浮窗">&ensp;
+  <img src="screenshots/iphone/iphone_file.png?raw=true" width="30%" alt="文件">&ensp;
+  <img src="screenshots/iphone/iphone_export.png?raw=true" width="30%" alt="导出">
+</p>
 
 </details>
 
 <details open>
 <summary>iPad 截图 (13")</summary>
 
-| | | |
-|---|---|---|
-| ![首页](screenshots/ipad/ipad_home.png?raw=true) | ![主界面](screenshots/ipad/ipad_main.png?raw=true) | ![会话](screenshots/ipad/ipad_session.png?raw=true) |
-| ![设置](screenshots/ipad/ipad_settings.png?raw=true) | ![Pro](screenshots/ipad/ipad_pro.png?raw=true) | |
+<p align="center">
+  <img src="screenshots/ipad/ipad_home.png?raw=true" width="30%" alt="首页">&ensp;
+  <img src="screenshots/ipad/ipad_main.png?raw=true" width="30%" alt="主界面">&ensp;
+  <img src="screenshots/ipad/ipad_session.png?raw=true" width="30%" alt="会话">
+  <br><br>
+  <img src="screenshots/ipad/ipad_settings.png?raw=true" width="30%" alt="设置">&ensp;
+  <img src="screenshots/ipad/ipad_pro.png?raw=true" width="30%" alt="Pro">
+</p>
 
 </details>
 
 <details open>
 <summary>📹 预览视频</summary>
 
-| | |
-|---|---|
-| <video src="videos/iphone/preview_mic.MOV" controls width="100%"></video> | <video src="videos/iphone/preview_subtitles.MOV" controls width="100%"></video> |
-| <video src="videos/iphone/preview_file.MOV" controls width="100%"></video> | |
+| 预览 | 说明 | 下载 |
+|---|---|---|
+| <img src="screenshots/iphone/iphone_home.png?raw=true" width="120"> | 悬浮字幕 — 画中画实时翻译窗口 | [下载 (15MB)](videos/iphone/preview_subtitles.MOV?raw=true) |
+| <img src="screenshots/iphone/iphone_file.png?raw=true" width="120"> | 音频文件翻译 — 转写并生成双语字幕 | [下载 (3.6MB)](videos/iphone/preview_file.MOV?raw=true) |
+| <img src="screenshots/iphone/iphone_pip.png?raw=true" width="120"> | 麦克风翻译 — 边说话边显示字幕 | [下载 (2.0MB)](videos/iphone/preview_mic.MOV?raw=true) |
 
 </details>
 

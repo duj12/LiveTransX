@@ -47,31 +47,40 @@ English, Chinese (Simplified & Traditional), Japanese, Korean, French, German, S
   <img src="screenshots/iphone/iphone_landscape.png?raw=true" width="60%" alt="Landscape">
 </p>
 
-| | |
-|---|---|
-| ![Home](screenshots/iphone/iphone_home.png?raw=true) | ![Session](screenshots/iphone/iphone_session.png?raw=true) |
-| ![Settings](screenshots/iphone/iphone_settings.png?raw=true) | ![PiP](screenshots/iphone/iphone_pip.png?raw=true) |
-| ![File](screenshots/iphone/iphone_file.png?raw=true) | ![Export](screenshots/iphone/iphone_export.png?raw=true) |
+<p align="center">
+  <img src="screenshots/iphone/iphone_home.png?raw=true" width="30%" alt="Home">&ensp;
+  <img src="screenshots/iphone/iphone_session.png?raw=true" width="30%" alt="Session">&ensp;
+  <img src="screenshots/iphone/iphone_settings.png?raw=true" width="30%" alt="Settings">
+  <br><br>
+  <img src="screenshots/iphone/iphone_pip.png?raw=true" width="30%" alt="PiP">&ensp;
+  <img src="screenshots/iphone/iphone_file.png?raw=true" width="30%" alt="File">&ensp;
+  <img src="screenshots/iphone/iphone_export.png?raw=true" width="30%" alt="Export">
+</p>
 
 </details>
 
 <details open>
 <summary>iPad Screenshots (13")</summary>
 
-| | | |
-|---|---|---|
-| ![Home](screenshots/ipad/ipad_home.png?raw=true) | ![Main](screenshots/ipad/ipad_main.png?raw=true) | ![Session](screenshots/ipad/ipad_session.png?raw=true) |
-| ![Settings](screenshots/ipad/ipad_settings.png?raw=true) | ![Pro](screenshots/ipad/ipad_pro.png?raw=true) | |
+<p align="center">
+  <img src="screenshots/ipad/ipad_home.png?raw=true" width="30%" alt="Home">&ensp;
+  <img src="screenshots/ipad/ipad_main.png?raw=true" width="30%" alt="Main">&ensp;
+  <img src="screenshots/ipad/ipad_session.png?raw=true" width="30%" alt="Session">
+  <br><br>
+  <img src="screenshots/ipad/ipad_settings.png?raw=true" width="30%" alt="Settings">&ensp;
+  <img src="screenshots/ipad/ipad_pro.png?raw=true" width="30%" alt="Pro">
+</p>
 
 </details>
 
 <details open>
 <summary>📹 App Preview Videos</summary>
 
-| | |
-|---|---|
-| <video src="videos/iphone/preview_mic.MOV" controls width="100%"></video> | <video src="videos/iphone/preview_subtitles.MOV" controls width="100%"></video> |
-| <video src="videos/iphone/preview_file.MOV" controls width="100%"></video> | |
+| Preview | Description | Download |
+|---|---|---|
+| <img src="screenshots/iphone/iphone_home.png?raw=true" width="120"> | Floating subtitles overlay — real-time PiP window | [Download (15MB)](videos/iphone/preview_subtitles.MOV?raw=true) |
+| <img src="screenshots/iphone/iphone_file.png?raw=true" width="120"> | Audio file translation — transcribe & translate | [Download (3.6MB)](videos/iphone/preview_file.MOV?raw=true) |
+| <img src="screenshots/iphone/iphone_pip.png?raw=true" width="120"> | Mic translation — real-time bilingual subtitles | [Download (2.0MB)](videos/iphone/preview_mic.MOV?raw=true) |
 
 </details>
 
