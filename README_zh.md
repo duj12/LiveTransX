@@ -78,9 +78,9 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
 
 <table>
   <tr align="center">
-    <td><video src="https://github.com/user-attachments/assets/59a4465b-8b83-4100-b233-ae2d545bc54c" controls width="100%"></video><br><b>悬浮翻译窗口</b><br><sub>画中画实时字幕</sub></td>
+    <td><video src="https://github.com/user-attachments/assets/59a4465b-8b83-4100-b233-ae2d545bc54c" controls width="100%"></video><br><b>麦克风翻译</b><br><sub>实时语音双语翻译</sub></td>
     <td><video src="https://github.com/user-attachments/assets/d2f35c67-a892-4b76-b266-0baa4ef48a00" controls width="100%"></video><br><b>音频文件翻译</b><br><sub>转写并生成双语字幕</sub></td>
-    <td><video src="https://github.com/user-attachments/assets/f4586e50-c2b0-47e3-8c29-1bb8907ac522" controls width="100%"></video><br><b>麦克风翻译</b><br><sub>实时语音双语翻译</sub></td>
+    <td><video src="https://github.com/user-attachments/assets/f4586e50-c2b0-47e3-8c29-1bb8907ac522" controls width="100%"></video><br><b>悬浮翻译窗口</b><br><sub>画中画实时字幕</sub></td>
   </tr>
 </table>
 
