@@ -77,9 +77,9 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
 <summary>📹 预览视频</summary>
 
 <p align="center">
-  <a href="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_subtitles.mp4" target="_blank"><img src="screenshots/iphone/iphone_pip.png?raw=true" width="30%" alt="悬浮字幕"></a>&ensp;
-  <a href="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_file.mp4" target="_blank"><img src="screenshots/iphone/iphone_file.png?raw=true" width="30%" alt="音频文件翻译"></a>&ensp;
-  <a href="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_mic.mp4" target="_blank"><img src="screenshots/iphone/iphone_home.png?raw=true" width="30%" alt="麦克风翻译"></a>
+  <video src="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_subtitles.mp4" controls width="30%"></video>&ensp;
+  <video src="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_file.mp4" controls width="30%"></video>&ensp;
+  <video src="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_mic.mp4" controls width="30%"></video>
   <br>
   <sub>悬浮字幕 · 音频文件翻译 · 麦克风翻译</sub>
 </p>
