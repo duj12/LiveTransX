@@ -38,6 +38,42 @@ English, Chinese (Simplified & Traditional), Japanese, Korean, French, German, S
 
 ---
 
+## 📱 Screenshots & App Previews
+
+<details>
+<summary>iPhone Screenshots (6.5")</summary>
+
+| | | |
+|---|---|---|
+| ![Landscape](screenshots/iphone/iphone_landscape.png?raw=true) | ![Home](screenshots/iphone/iphone_home.png?raw=true) | ![Main](screenshots/iphone/iphone_main.png?raw=true) |
+| ![Session](screenshots/iphone/iphone_session.png?raw=true) | ![Settings](screenshots/iphone/iphone_settings.png?raw=true) | ![PiP](screenshots/iphone/iphone_pip.png?raw=true) |
+| ![File](screenshots/iphone/iphone_file.png?raw=true) | ![Export](screenshots/iphone/iphone_export.png?raw=true) | |
+
+</details>
+
+<details>
+<summary>iPad Screenshots (13")</summary>
+
+| | | |
+|---|---|---|
+| ![Home](screenshots/ipad/ipad_home.png?raw=true) | ![Main](screenshots/ipad/ipad_main.png?raw=true) | ![Session](screenshots/ipad/ipad_session.png?raw=true) |
+| ![Settings](screenshots/ipad/ipad_settings.png?raw=true) | ![Pro](screenshots/ipad/ipad_pro.png?raw=true) | |
+
+</details>
+
+<details>
+<summary>📹 App Preview Videos</summary>
+
+| Video | Description | Size |
+|---|---|---|
+| [Mic Translation](videos/iphone/preview_mic.MOV?raw=true) | Real-time microphone translation | 15MB |
+| [Subtitles](videos/iphone/preview_subtitles.MOV?raw=true) | Floating subtitle window | 3.6MB |
+| [File Translation](videos/iphone/preview_file.MOV?raw=true) | Audio file translation | 2.0MB |
+
+</details>
+
+---
+
 ## 📥 Download
 
 *Coming soon on the App Store*
