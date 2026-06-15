@@ -76,11 +76,13 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
 <details open>
 <summary>📹 预览视频</summary>
 
-| 预览 | 说明 | 下载 |
-|---|---|---|
-| <img src="screenshots/iphone/iphone_home.png?raw=true" width="120"> | 悬浮字幕 — 画中画实时翻译窗口 | [下载 (15MB)](videos/iphone/preview_subtitles.MOV?raw=true) |
-| <img src="screenshots/iphone/iphone_file.png?raw=true" width="120"> | 音频文件翻译 — 转写并生成双语字幕 | [下载 (3.6MB)](videos/iphone/preview_file.MOV?raw=true) |
-| <img src="screenshots/iphone/iphone_pip.png?raw=true" width="120"> | 麦克风翻译 — 边说话边显示字幕 | [下载 (2.0MB)](videos/iphone/preview_mic.MOV?raw=true) |
+<p align="center">
+  <video src="videos/iphone/preview_subtitles.mp4?raw=true" controls width="30%"></video>&ensp;
+  <video src="videos/iphone/preview_file.mp4?raw=true" controls width="30%"></video>&ensp;
+  <video src="videos/iphone/preview_mic.mp4?raw=true" controls width="30%"></video>
+  <br>
+  <sub>悬浮字幕 · 音频文件翻译 · 麦克风翻译</sub>
+</p>
 
 </details>
 

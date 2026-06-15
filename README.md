@@ -76,11 +76,13 @@ English, Chinese (Simplified & Traditional), Japanese, Korean, French, German, S
 <details open>
 <summary>📹 App Preview Videos</summary>
 
-| Preview | Description | Download |
-|---|---|---|
-| <img src="screenshots/iphone/iphone_home.png?raw=true" width="120"> | Floating subtitles overlay — real-time PiP window | [Download (15MB)](videos/iphone/preview_subtitles.MOV?raw=true) |
-| <img src="screenshots/iphone/iphone_file.png?raw=true" width="120"> | Audio file translation — transcribe & translate | [Download (3.6MB)](videos/iphone/preview_file.MOV?raw=true) |
-| <img src="screenshots/iphone/iphone_pip.png?raw=true" width="120"> | Mic translation — real-time bilingual subtitles | [Download (2.0MB)](videos/iphone/preview_mic.MOV?raw=true) |
+<p align="center">
+  <video src="videos/iphone/preview_subtitles.mp4?raw=true" controls width="30%"></video>&ensp;
+  <video src="videos/iphone/preview_file.mp4?raw=true" controls width="30%"></video>&ensp;
+  <video src="videos/iphone/preview_mic.mp4?raw=true" controls width="30%"></video>
+  <br>
+  <sub>Floating subtitles · Audio File Translation · Mic Translation</sub>
+</p>
 
 </details>
 
