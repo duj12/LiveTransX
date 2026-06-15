@@ -76,11 +76,13 @@ English, Chinese (Simplified & Traditional), Japanese, Korean, French, German, S
 <details open>
 <summary>📹 App Preview Videos</summary>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/59a4465b-8b83-4100-b233-ae2d545bc54c" controls width="30%"></video>&ensp;
-  <video src="https://github.com/user-attachments/assets/d2f35c67-a892-4b76-b266-0baa4ef48a00" controls width="30%"></video>&ensp;
-  <video src="https://github.com/user-attachments/assets/f4586e50-c2b0-47e3-8c29-1bb8907ac522" controls width="30%"></video>
-</p>
+<table>
+  <tr align="center">
+    <td><video src="https://github.com/user-attachments/assets/59a4465b-8b83-4100-b233-ae2d545bc54c" controls width="100%"></video><br><b>Floating Translation Window</b><br><sub>Picture-in-Picture overlay</sub></td>
+    <td><video src="https://github.com/user-attachments/assets/d2f35c67-a892-4b76-b266-0baa4ef48a00" controls width="100%"></video><br><b>Audio File Translation</b><br><sub>Transcribe & translate audio</sub></td>
+    <td><video src="https://github.com/user-attachments/assets/f4586e50-c2b0-47e3-8c29-1bb8907ac522" controls width="100%"></video><br><b>Mic Translation</b><br><sub>Real-time bilingual subtitles</sub></td>
+  </tr>
+</table>
 
 </details>
 
