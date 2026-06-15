@@ -40,18 +40,22 @@ English, Chinese (Simplified & Traditional), Japanese, Korean, French, German, S
 
 ## 📱 Screenshots & App Previews
 
-<details>
+<details open>
 <summary>iPhone Screenshots (6.5")</summary>
 
-| | | |
-|---|---|---|
-| ![Landscape](screenshots/iphone/iphone_landscape.png?raw=true) | ![Home](screenshots/iphone/iphone_home.png?raw=true) | ![Main](screenshots/iphone/iphone_main.png?raw=true) |
-| ![Session](screenshots/iphone/iphone_session.png?raw=true) | ![Settings](screenshots/iphone/iphone_settings.png?raw=true) | ![PiP](screenshots/iphone/iphone_pip.png?raw=true) |
-| ![File](screenshots/iphone/iphone_file.png?raw=true) | ![Export](screenshots/iphone/iphone_export.png?raw=true) | |
+<p align="center">
+  <img src="screenshots/iphone/iphone_landscape.png?raw=true" width="60%" alt="Landscape">
+</p>
+
+| | |
+|---|---|
+| ![Home](screenshots/iphone/iphone_home.png?raw=true) | ![Session](screenshots/iphone/iphone_session.png?raw=true) |
+| ![Settings](screenshots/iphone/iphone_settings.png?raw=true) | ![PiP](screenshots/iphone/iphone_pip.png?raw=true) |
+| ![File](screenshots/iphone/iphone_file.png?raw=true) | ![Export](screenshots/iphone/iphone_export.png?raw=true) |
 
 </details>
 
-<details>
+<details open>
 <summary>iPad Screenshots (13")</summary>
 
 | | | |
@@ -61,14 +65,13 @@ English, Chinese (Simplified & Traditional), Japanese, Korean, French, German, S
 
 </details>
 
-<details>
+<details open>
 <summary>📹 App Preview Videos</summary>
 
-| Video | Description | Size |
-|---|---|---|
-| [Mic Translation](videos/iphone/preview_mic.MOV?raw=true) | Real-time microphone translation | 15MB |
-| [Subtitles](videos/iphone/preview_subtitles.MOV?raw=true) | Floating subtitle window | 3.6MB |
-| [File Translation](videos/iphone/preview_file.MOV?raw=true) | Audio file translation | 2.0MB |
+| | |
+|---|---|
+| <video src="videos/iphone/preview_mic.MOV" controls width="100%"></video> | <video src="videos/iphone/preview_subtitles.MOV" controls width="100%"></video> |
+| <video src="videos/iphone/preview_file.MOV" controls width="100%"></video> | |
 
 </details>
 

@@ -40,18 +40,22 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
 
 ## 📱 截图与预览视频
 
-<details>
+<details open>
 <summary>iPhone 截图 (6.5")</summary>
 
-| | | |
-|---|---|---|
-| ![横屏](screenshots/iphone/iphone_landscape.png?raw=true) | ![首页](screenshots/iphone/iphone_home.png?raw=true) | ![主界面](screenshots/iphone/iphone_main.png?raw=true) |
-| ![会话历史](screenshots/iphone/iphone_session.png?raw=true) | ![设置](screenshots/iphone/iphone_settings.png?raw=true) | ![浮窗](screenshots/iphone/iphone_pip.png?raw=true) |
-| ![文件翻译](screenshots/iphone/iphone_file.png?raw=true) | ![导出](screenshots/iphone/iphone_export.png?raw=true) | |
+<p align="center">
+  <img src="screenshots/iphone/iphone_landscape.png?raw=true" width="60%" alt="横屏截图">
+</p>
+
+| | |
+|---|---|
+| ![首页](screenshots/iphone/iphone_home.png?raw=true) | ![会话历史](screenshots/iphone/iphone_session.png?raw=true) |
+| ![设置](screenshots/iphone/iphone_settings.png?raw=true) | ![浮窗](screenshots/iphone/iphone_pip.png?raw=true) |
+| ![文件翻译](screenshots/iphone/iphone_file.png?raw=true) | ![导出](screenshots/iphone/iphone_export.png?raw=true) |
 
 </details>
 
-<details>
+<details open>
 <summary>iPad 截图 (13")</summary>
 
 | | | |
@@ -61,14 +65,13 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
 
 </details>
 
-<details>
+<details open>
 <summary>📹 预览视频</summary>
 
-| 视频 | 说明 | 大小 |
-|---|---|---|
-| [麦克风翻译](videos/iphone/preview_mic.MOV?raw=true) | 实时麦克风翻译演示 | 15MB |
-| [悬浮字幕](videos/iphone/preview_subtitles.MOV?raw=true) | 悬浮翻译窗口演示 | 3.6MB |
-| [文件翻译](videos/iphone/preview_file.MOV?raw=true) | 音频文件翻译演示 | 2.0MB |
+| | |
+|---|---|
+| <video src="videos/iphone/preview_mic.MOV" controls width="100%"></video> | <video src="videos/iphone/preview_subtitles.MOV" controls width="100%"></video> |
+| <video src="videos/iphone/preview_file.MOV" controls width="100%"></video> | |
 
 </details>
 
