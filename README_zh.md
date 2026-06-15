@@ -77,11 +77,11 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
 <summary>📹 预览视频</summary>
 
 <p align="center">
-  <video src="videos/iphone/preview_subtitles.mp4?raw=true" controls width="30%"></video>&ensp;
-  <video src="videos/iphone/preview_file.mp4?raw=true" controls width="30%"></video>&ensp;
-  <video src="videos/iphone/preview_mic.mp4?raw=true" controls width="30%"></video>
+  <a href="videos/iphone/preview_subtitles.mp4?raw=true"><img src="screenshots/iphone/iphone_pip.png?raw=true" width="30%" alt="悬浮字幕"></a>&ensp;
+  <a href="videos/iphone/preview_file.mp4?raw=true"><img src="screenshots/iphone/iphone_file.png?raw=true" width="30%" alt="音频文件翻译"></a>&ensp;
+  <a href="videos/iphone/preview_mic.mp4?raw=true"><img src="screenshots/iphone/iphone_home.png?raw=true" width="30%" alt="麦克风翻译"></a>
   <br>
-  <sub>悬浮字幕 · 音频文件翻译 · 麦克风翻译</sub>
+  <sub>点击播放 · 悬浮字幕 · 音频文件翻译 · 麦克风翻译</sub>
 </p>
 
 </details>

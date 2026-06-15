@@ -77,11 +77,11 @@ English, Chinese (Simplified & Traditional), Japanese, Korean, French, German, S
 <summary>📹 App Preview Videos</summary>
 
 <p align="center">
-  <video src="videos/iphone/preview_subtitles.mp4?raw=true" controls width="30%"></video>&ensp;
-  <video src="videos/iphone/preview_file.mp4?raw=true" controls width="30%"></video>&ensp;
-  <video src="videos/iphone/preview_mic.mp4?raw=true" controls width="30%"></video>
+  <a href="videos/iphone/preview_subtitles.mp4?raw=true"><img src="screenshots/iphone/iphone_pip.png?raw=true" width="30%" alt="Floating subtitles"></a>&ensp;
+  <a href="videos/iphone/preview_file.mp4?raw=true"><img src="screenshots/iphone/iphone_file.png?raw=true" width="30%" alt="Audio File Translation"></a>&ensp;
+  <a href="videos/iphone/preview_mic.mp4?raw=true"><img src="screenshots/iphone/iphone_home.png?raw=true" width="30%" alt="Mic Translation"></a>
   <br>
-  <sub>Floating subtitles · Audio File Translation · Mic Translation</sub>
+  <sub>Click to play · Floating subtitles · Audio File Translation · Mic Translation</sub>
 </p>
 
 </details>
