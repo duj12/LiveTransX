@@ -80,8 +80,6 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
   <video src="https://github.com/user-attachments/assets/59a4465b-8b83-4100-b233-ae2d545bc54c" controls width="30%"></video>&ensp;
   <video src="https://github.com/user-attachments/assets/d2f35c67-a892-4b76-b266-0baa4ef48a00" controls width="30%"></video>&ensp;
   <video src="https://github.com/user-attachments/assets/f4586e50-c2b0-47e3-8c29-1bb8907ac522" controls width="30%"></video>
-  <br>
-  <sub>悬浮字幕 · 音频文件翻译 · 麦克风翻译</sub>
 </p>
 
 </details>
