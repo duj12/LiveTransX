@@ -77,9 +77,9 @@ English, Chinese (Simplified & Traditional), Japanese, Korean, French, German, S
 <summary>📹 App Preview Videos</summary>
 
 <p align="center">
-  <video src="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_subtitles.mp4" controls width="30%"></video>&ensp;
-  <video src="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_file.mp4" controls width="30%"></video>&ensp;
-  <video src="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_mic.mp4" controls width="30%"></video>
+  <video src="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_subtitles.webm" controls width="30%"></video>&ensp;
+  <video src="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_file.webm" controls width="30%"></video>&ensp;
+  <video src="https://github.com/duj12/LiveTransX/raw/main/videos/iphone/preview_mic.webm" controls width="30%"></video>
   <br>
   <sub>Floating subtitles · Audio File Translation · Mic Translation</sub>
 </p>
