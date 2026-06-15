@@ -1,5 +1,9 @@
 [English](README.md)
 
+<p align="center">
+  <img src="images/icon.png" width="80" alt="LiveTransX">
+</p>
+
 # LiveTransX 🎙️  →  🌐
 
 **完全离线的实时语音翻译**

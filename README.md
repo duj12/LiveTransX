@@ -1,5 +1,9 @@
 [中文](README_zh.md)
 
+<p align="center">
+  <img src="images/icon.png" width="80" alt="LiveTransX">
+</p>
+
 # LiveTransX 🎙️  →  🌐
 
 **On-Device Real-Time Voice Translation**
