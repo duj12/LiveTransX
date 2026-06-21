@@ -72,7 +72,7 @@ English, Chinese (Simplified & Traditional), Japanese, Korean, French, German, S
   <img src="screenshots/ipad/ipad_session.png?raw=true" width="30%" alt="Session">
   <br><br>
   <img src="screenshots/ipad/ipad_settings.png?raw=true" width="30%" alt="Settings">&ensp;
-  <img src="screenshots/ipad/ipad_pro.png?raw=true" width="30%" alt="Pro">
+  <img src="screenshots/ipad/ipad_pro.png?raw=true&v=2" width="30%" alt="Pro">
 </p>
 
 </details>

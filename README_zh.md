@@ -72,7 +72,7 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
   <img src="screenshots/ipad/ipad_session.png?raw=true" width="30%" alt="会话">
   <br><br>
   <img src="screenshots/ipad/ipad_settings.png?raw=true" width="30%" alt="设置">&ensp;
-  <img src="screenshots/ipad/ipad_pro.png?raw=true" width="30%" alt="Pro">
+  <img src="screenshots/ipad/ipad_pro.png?raw=true&v=2" width="30%" alt="Pro">
 </p>
 
 </details>
