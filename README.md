@@ -27,7 +27,8 @@ LiveTransX translates your voice in real time — entirely on your device. No in
 - 📝 **SRT Subtitle Export** — Export bilingual, original-only, or translation-only subtitles
 
 ### Supported Languages
-English, Chinese (Simplified & Traditional), Japanese, Korean, French, German, Spanish, Russian, Portuguese, Italian, Arabic, Thai, Vietnamese, Indonesian, Malay, Hindi, Turkish, Dutch, Polish, Swedish, Danish, Finnish, Czech, Greek, Hungarian, Romanian, Persian, Filipino, and more.
+35 source languages and 28 target languages:
+English, Chinese, Japanese, Korean, Cantonese, French, German, Spanish, Russian, Portuguese, Italian, Arabic, Thai, Vietnamese, Indonesian, Malay, Hindi, Turkish, Dutch, Polish, Swedish, Danish, Finnish, Czech, Greek, Hungarian, Romanian, Persian, Catalan, Filipino, Hebrew, Croatian, Macedonian, Norwegian, Slovak, Ukrainian.
 
 ---
 
