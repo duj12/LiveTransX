@@ -95,7 +95,9 @@ English, Chinese, Japanese, Korean, Cantonese, French, German, Spanish, Russian,
 
 ## 📥 Download
 
-*Coming soon on the App Store*
+<a href="https://apps.apple.com/app/livetransx/id6779881759" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1710201600" alt="Download on the App Store" height="50"></a>
+
+<a href="https://apps.apple.com/app/livetransx/id6779881759">apps.apple.com/app/livetransx/id6779881759</a>
 
 ---
 

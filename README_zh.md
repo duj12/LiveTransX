@@ -95,7 +95,9 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
 
 ## 📥 下载
 
-*即将上线 App Store*
+<a href="https://apps.apple.com/app/livetransx/id6779881759" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/zh-cn?size=250x83&amp;releaseDate=1710201600" alt="从 App Store 下载" height="50"></a>
+
+<a href="https://apps.apple.com/app/livetransx/id6779881759">apps.apple.com/app/livetransx/id6779881759</a>
 
 ---
 
