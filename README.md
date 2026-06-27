@@ -95,9 +95,15 @@ English, Chinese, Japanese, Korean, Cantonese, French, German, Spanish, Russian,
 
 ## 📥 Download
 
-<a href="https://apps.apple.com/app/livetransx/id6779881759" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1710201600" alt="Download on the App Store" height="50"></a>
+<a href="https://apps.apple.com/app/id6779881759" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="50"></a>
 
-<a href="https://apps.apple.com/app/livetransx/id6779881759">apps.apple.com/app/livetransx/id6779881759</a>
+Scan with iPhone camera to open directly:
+
+<img src="images/qr_download.png" width="120" alt="QR Code">
+
+[apps.apple.com/app/id6779881759](https://apps.apple.com/app/id6779881759)
+
+Note: This is an iOS app. Open the link on your iPhone to go to the App Store page.
 
 ---
 
