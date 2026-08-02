@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duj12.github.io/LiveTransX/sitemap.xml
