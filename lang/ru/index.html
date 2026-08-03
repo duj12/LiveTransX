@@ -38,6 +38,13 @@
     .brand { font-weight:700; font-size:18px; color:var(--text); text-decoration:none; }
     nav a { color:var(--muted); text-decoration:none; margin-left:18px; font-size:14px; }
     nav a:hover { color:var(--accent); }
+    .lang-switch { position:relative; display:inline-block; margin-left:18px; font-size:14px; }
+    .lang-switch summary { cursor:pointer; color:var(--muted); list-style:none; }
+    .lang-switch summary::-webkit-details-marker { display:none; }
+    .lang-switch[open] summary { color:var(--accent); }
+    .lang-menu { position:absolute; right:0; top:26px; background:var(--card); border:1px solid var(--border); border-radius:10px; padding:6px; min-width:150px; z-index:10; }
+    .lang-menu a { display:block; color:var(--text); margin:0; padding:6px 10px; border-radius:6px; }
+    .lang-menu a:hover { background:rgba(79,140,255,.12); color:var(--accent); }
     main { padding:48px 0 64px; }
     .hero { text-align:center; padding:24px 0 40px; }
     .hero h1 { font-size:34px; line-height:1.25; margin-bottom:16px; }
@@ -68,6 +75,32 @@
         <a href="#features">Features</a>
         <a href="#pricing">Pricing</a>
         <a href="privacy/">Privacy</a>
+        
+        <details class="lang-switch">
+          <summary>🌐 Русский</summary>
+          <div class="lang-menu">
+            
+            <a href="https://duj12.github.io/LiveTransX/">English</a>
+            
+            <a href="https://duj12.github.io/LiveTransX/lang/zh/">中文</a>
+            
+            <a href="https://duj12.github.io/LiveTransX/lang/ja/">日本語</a>
+            
+            <a href="https://duj12.github.io/LiveTransX/lang/ko/">한국어</a>
+            
+            <a href="https://duj12.github.io/LiveTransX/lang/es/">Español</a>
+            
+            <a href="https://duj12.github.io/LiveTransX/lang/pt/">Português</a>
+            
+            <a href="https://duj12.github.io/LiveTransX/lang/de/">Deutsch</a>
+            
+            <a href="https://duj12.github.io/LiveTransX/lang/fr/">Français</a>
+            
+            <a href="https://duj12.github.io/LiveTransX/lang/ru/" style="color:var(--accent)">Русский</a>
+            
+          </div>
+        </details>
+        
       </nav>
     </div>
   </header>
