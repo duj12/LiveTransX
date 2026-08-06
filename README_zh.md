@@ -10,6 +10,8 @@
 
 LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网，不上传音频，对话隐私 100% 保留在你手中。
 
+**🌐 网站：** https://duj12.github.io/LiveTransX/
+
 ---
 
 ## ✨ 功能介绍
@@ -17,7 +19,7 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
 ### 免费功能
 - 🎤 **麦克风实时翻译** — 边说边显示双语字幕
 - 🧠 **Apple Speech Analyzer** — 基于 iOS 26 的本地语音识别引擎
-- 🌍 **Apple Translation** — 覆盖 35+ 语言，自动检测源语言
+- 🌍 **Apple Translation** — 覆盖 30+ 语言，自动检测源语言
 - 📱 **iPhone & iPad** — 双平台原生支持
 
 ### Pro 订阅功能
@@ -39,7 +41,7 @@ LiveTransX 在你的设备本地完成全部语音转写与翻译，无需联网
 - ✅ **无追踪** — 零分析 SDK，零广告
 - ✅ **无数据收集** — 你的对话只属于你自己
 
-[隐私政策](https://duj12.github.io/LiveTransX/)
+[隐私政策](https://duj12.github.io/LiveTransX/privacy/)
 
 ---
 

@@ -10,7 +10,17 @@
 
 LiveTransX translates your voice in real time — entirely on your device. No internet required. No audio uploaded. Your conversations stay 100% private.
 
+**🌐 Website:** https://duj12.github.io/LiveTransX/
+
 ---
+
+## ✨ Features
+
+### Free
+- 🎤 **Microphone Translation** — Speak and see live bilingual subtitles instantly
+- 🧠 **Apple Speech Analyzer** — Powered by iOS 26 on-device speech recognition
+- 🌍 **Apple Translation** — 30+ languages, automatic source detection
+- 📱 **iPhone & iPad** — Native support for both
 
 ## ✨ Features
 
