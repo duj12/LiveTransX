@@ -49,7 +49,7 @@ English, Chinese, Japanese, Korean, Cantonese, French, German, Spanish, Russian,
 - ✅ **No tracking** — Zero analytics SDKs, zero ads
 - ✅ **No data collection** — Your conversations are yours alone
 
-[Privacy Policy](https://duj12.github.io/LiveTransX/)
+[Privacy Policy](https://duj12.github.io/LiveTransX/privacy/)
 
 ---
 
